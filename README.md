@@ -1,13 +1,13 @@
 # Redis
 
-## O que é o Redis?
+## 💻 O que é o Redis?
 Redis é uma ferramenta open-source que salva em memória estruturas de dados, sendo um dos armazenamentos em `chave: valor` mais conhecido do mercado. 
 
 Ele garante um armazenamento em alta velocidade e claro, fácil de utilizar, já que exige um baixo nível de código para gerenciar os dados.
 
 O benefício de utiliza-lo, é evitar gasto de recursos quando o número de acessos começa a aumentar. Já que o armazenamento na memória leva menos tempo para efetuar a atividade em comparação as ferramentas tradicionais.
 
-### Por que utilizar o Redis?
+### 🤔 Por que utilizar o Redis?
 - Desempenho muito rápido - ao evitar o acesso em disco, evita atrasos de tempo de busca e podem acessar dados com algoritmos mais simples que usam menos instruções de CPU.
 - Estrutura de dados em memória - O tipo de dados fundamental é uma `string`, que pode ser em formato de dados de `texto` ou `binários` e ter no máximo `512 MB`.
 - Versatilidade e facilidade de uso - manipular os dados no Redis é simples, porque mantém a estrutura de dados intacta.
